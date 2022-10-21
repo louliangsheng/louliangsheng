@@ -7,9 +7,9 @@
 }
 
 body {
-	background: #111;
+	background: #fff;
 	font: 16px/18px "Courier New", Courier, mono;
-	color: #fff;
+	color: #111;
 }
 
 div.wrap {
