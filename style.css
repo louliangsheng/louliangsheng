@@ -28,7 +28,7 @@ h1, h3 {
 	color: #999;
 }
 	h1 b {
-		color: #ddd;
+		color: #222;
 	}
 
 
@@ -58,11 +58,11 @@ ul {
 @-webkit-keyframes blink {
 	0% {
 		background: #ddd;
-		color: #000;
+		color: #fff;
 	}
 	50% {
 		background: #ddd;
-		color: #000;
+		color: #fff;
 	}
 	50.01% {
 		background: transparent;
@@ -81,11 +81,11 @@ ul {
 @-moz-keyframes blink {
    0% {
    	background: #ddd;
-   	color: #000;
+   	color: #fff;
    }
    50% {
    	background: #ddd;
-   	color: #000;
+   	color: #fff;
    }
    50.01% {
    	background: transparent;
@@ -104,11 +104,11 @@ ul {
 @-ms-keyframes blink {
    0% {
    	background: #ddd;
-   	color: #000;
+   	color: #fff;
    }
    50% {
    	background: #ddd;
-   	color: #000;
+   	color: #fff;
    }
    50.01% {
    	background: transparent;
@@ -127,11 +127,11 @@ ul {
 @-o-keyframes blink {
 	0% {
 		background: #ddd;
-		color: #000;
+		color: #fff;
 	}
 	50% {
 		background: #ddd;
-		color: #000;
+		color: #fff;
 	}
 	50.01% {
 		background: transparent;
@@ -150,11 +150,11 @@ ul {
 @keyframes blink {
   0% {
   	background: #ddd;
-  	color: #000;
+  	color: #fff;
   }
   50% {
   	background: #ddd;
-  	color: #000;
+  	color: #fff;
   }
   50.01% {
   	background: transparent;
